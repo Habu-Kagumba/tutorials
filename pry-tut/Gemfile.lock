@@ -12,7 +12,7 @@ GEM
       yard (~> 0.8)
     rake (11.1.1)
     slop (3.6.0)
-    yard (0.8.7.6)
+    yard (0.9.36)
 
 PLATFORMS
   ruby
